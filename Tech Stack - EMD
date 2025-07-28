@@ -1,0 +1,9 @@
+| Layer            | Technology                    |
+| ---------------- | ----------------------------- |
+| Backend API      | ASP.NET Core Web API (latest) |
+| Frontend         | Angular 16 or React           |
+| Database         | SQL Server with EF Core       |
+| Realtime Support | SignalR (for live updates)    |
+| Location/GPS     | Google Maps API / Leaflet     |
+| Authentication   | ASP.NET Identity + JWT        |
+| Hosting          | Azure / AWS (optional)        |
