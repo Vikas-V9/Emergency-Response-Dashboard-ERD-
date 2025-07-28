@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@asymmetrik/ngx-leaflet": "^18.0.1",
+    "leaflet": "^1.9.4"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.9.20"
+  },
+  "name": "emergency-dashboard",
+  "version": "1.0.0",
+  "description": "A dashboard for managing emergency responses",
+  "scripts": {
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e" 
+  }
+}
