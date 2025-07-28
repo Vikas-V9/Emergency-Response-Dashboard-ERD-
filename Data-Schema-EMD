@@ -1,0 +1,9 @@
+| Field              | Type   |
+| ------------------ | ------ |
+| Id                 | int    |
+| PlateNumber        | string |
+| DriverName         | string |
+| IsAvailable        | bool   |
+| CurrentLat         | double |
+| CurrentLng         | double |
+| AssignedHospitalId | int?   |
